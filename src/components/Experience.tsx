@@ -12,6 +12,26 @@ const Experience: React.FC = () => {
       description: 'I designed and developed a Role-Based Trainee Management System for DRDO, providing separate access for HODs and Mentors to ensure secure and structured user interactions. The system streamlines student data management through both manual entry and CSV upload, enabling HODs to efficiently assign mentors and track trainee progress. For mentors, it incorporates task management features such as task assignment, trainee status monitoring, and certificate issuance, thereby enhancing oversight, automation, and the overall efficiency of the intern lifecycle.',
       
       technologies: ['JavaScript', 'React', 'Node.js', 'MongoDB', 'Express.js','Tailwind CSS','Framer-motion']
+    },
+    {
+      company: 'Xiorent Technologies',
+      position: 'Full Stack Developer',
+      duration: 'Present',
+      location: 'Remote (Kolkata)',
+      type: 'Full Time',
+      description: 'Worked on multiple projects in parallel, contributing to frontend development (UI design, feature implementation,AI Integration, and third-party API integrations) and backend engineering (API creation, business logic, and database design) . Delivered scalable, efficient, and user-friendly solutions by integrating AI features, external APIs, and custom backend services,ensuring seamless collaboration between systems and enhancing overall project functionality.',
+      
+      technologies: ['JavaScript','Nextjs','TypeScript', 'React', 'Node.js', 'MongoDB', 'Express.js','Tailwind CSS','Framer-motion']
+    },
+    {
+      company: 'BrandStory',
+      position: 'Full Stack Developer',
+      duration: 'Present',
+      location: 'Remote (Banglore)',
+      type: 'Internship',
+      description: 'Worked on frontend development using React and TypeScript/JavaScript to build responsive UIs and optimize userexperience. Contributed to backend APIs with Node.js managing SQL/NoSQL databases and ensuring smooth integrationwith REST and third-party APIs.. Assisted in testing, debugging, and QA processes while collaborating through Git/GitHub. Gained exposure to clouddeployments (AWS, Vercel) and CI/CD pipelines, supporting efficient development and release workflows.',
+      
+      technologies: ['JavaScript','Nextjs','AWS Exposure', 'React', 'Node.js', 'MongoDB', 'Express.js','Tailwind CSS','Framer-motion']
     }
   ];
 
